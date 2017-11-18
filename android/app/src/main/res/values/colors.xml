@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Change the color value for your need-->
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#ff9800</color>
+    <color name="actionMenuTextColor">#D9FFFFFF</color>
+    <color name="colorAccent">#1e88e5</color>
+</resources>
